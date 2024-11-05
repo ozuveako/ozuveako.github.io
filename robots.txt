@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ozuveako.github.io/miC/sitemap_index.txt
+Sitemap: https://ozuveako.github.io/mpw/sitemap_index.txt
+Sitemap: https://ozuveako.github.io/oTU/sitemap_index.txt
+Sitemap: https://ozuveako.github.io/sLn/sitemap_index.txt
